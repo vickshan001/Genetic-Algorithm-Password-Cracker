@@ -1,4 +1,4 @@
-# 🔐 Genetic Algorithm Password Cracker – AI Coursework
+# 🔐 Genetic Algorithm Password Cracker 
 
 This project demonstrating the use of genetic algorithms to guess passwords through evolution.
 
